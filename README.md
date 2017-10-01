@@ -25,3 +25,7 @@
 ### 任务六 
 要求：[http://ife.baidu.com/course/detail/id/107](http://ife.baidu.com/course/detail/id/107)          
 效果：[https://wungjyan.github.io/demo/binbinxueyuan/task-6.html](https://wungjyan.github.io/demo/binbinxueyuan/task-6.html)
+
+### 任务七  
+要求：[http://ife.baidu.com/course/detail/id/108](http://ife.baidu.com/course/detail/id/108)            
+效果：[https://wungjyan.github.io/demo/binbinxueyuan/task-7.html](https://wungjyan.github.io/demo/binbinxueyuan/task-7.html)
